@@ -1,2 +1,2 @@
-# System_Design
-System_Design University Class
+# System Design
+System Design University Class
