@@ -1,2 +1,2 @@
-# System Design
-My System Design University Class.
+# Computer Organization 
+My Computer Organization  University Class.
