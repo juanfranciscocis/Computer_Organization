@@ -1,2 +1,2 @@
 # Computer Organization 
-My Computer Organization  University Class.
+My Computer Organization University Class
