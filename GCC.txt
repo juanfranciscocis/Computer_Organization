@@ -1,0 +1,1 @@
+gcc -S -masm=intel <nombreArchivo.c> -o <nombreArchivo.asm>
